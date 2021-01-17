@@ -37,7 +37,7 @@ let hardse = 0.30
         setInterval(() => {
             moveMain();
             drawMain()
-        },5)
+        },10)
 
         drawMain()
 
