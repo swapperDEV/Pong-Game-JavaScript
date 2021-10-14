@@ -6,4 +6,4 @@ Pong Game its my first project, new update improve
 - Animation
 - Better table
 - Coins system, coins record
-- Bugs Fixed
+- Bugs Fix
